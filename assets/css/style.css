@@ -44,6 +44,12 @@ a:hover {
   text-decoration: none;
 }
 
+
+.error{
+  
+  color: #ed3c0d;
+}
+
 h1,
 h2,
 h3,
